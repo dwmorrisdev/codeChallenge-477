@@ -35,6 +35,8 @@ Files:
 
 The front end for this project was developed on codepen and converted down to regular css, so that I could use scss and have somewhat of a live link, but it could've been done with no preprocessor. As stated in the index.html disclaimer, this site is not responsive and I used minimal technologies, so no bootstrap or foundation was used for this project, although it could be fairly easily added. I have ideas about refactoring the JS file, but as I wanted to get this submission back to you as quickly as possible, you're getting my first draft.
 
+You'll notice the database color is changing as you click the button. Each time the color changes, the data is removed from its current div and moved to another. This is my attempt at demonstrating the "BONUS", or moving the data to different elements.
+
 ### Back-End Code:
 Files:
 * data.db
