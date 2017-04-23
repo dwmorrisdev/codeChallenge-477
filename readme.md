@@ -8,11 +8,11 @@
 # Abstract
 
 ### Part 1 HTML & JS:
-![trinity](https://www.planet-source-code.com/vb/2010Redesign/images/LangugeHomePages/HTML5_CSS_JavaScript.png)
+![trinity](https://cdn-images-1.medium.com/max/2000/1*l4xICbIIYlz1OTymWCoUTw.jpeg)
 Design a small web application GUI, using HTML and JavaScript. Write a function that processes a given set of data and outputs an HTML table into a webpage. Include styles that help present the table. BONUS - include a way to insert the table into different elements within the page.
 
 ### Part 2:
-![Perl](http://blog.builtinperl.com/uploads/covers/C2034404-0B7C-11E6-8654-CE024887B159.gif)
+![Perl](http://www.douglasputnam.com/wp-content/uploads/2015/09/perl_logo_oreilly.jpg)
 ![SQLite](http://plugins.netbeans.org/data/images/1422186794_sqliteicon.png)
 
 Create a database (namely "data.db") using SQLite containing one table with data. It must have three columns. Data from part 1 may be used. Create a Perl script using the DBI module that connects to the database. Select the contents of the created database (users). Print the contents of the table.
